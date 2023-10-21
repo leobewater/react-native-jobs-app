@@ -8,6 +8,13 @@ Use [`expo-router`](https://expo.github.io/router) to build native navigation us
 
 ```sh
 npx create-expo-app -e with-router
+npm i expo-font axios react-native-dotenv
+```
+
+```sh
+npm start
+
+download "Expo Go" app in your phone and scan the QR code
 ```
 
 ## 📝 Notes
